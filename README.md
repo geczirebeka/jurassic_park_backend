@@ -1,6 +1,6 @@
 # **Tyrannogotchi**
 
-The backend of a CodeClan JavaScript/Java Group Project. The application enables the user to create an account and look after a virtual T-Rex.
+The back-end of a CodeClan JavaScript/Java Group Project. The application enables the user to create an account and look after a virtual T-Rex.
 
 ## **How to run the application:**
 
@@ -19,7 +19,7 @@ The backend of a CodeClan JavaScript/Java Group Project. The application enables
 - Install the Lombok plugin in IntelliJ IDEA > Preferences > Plugins
 - Run `./mvnw spring-boot:run` in the Terminal to start the backend of the app
 
-For the frontend code click [here](https://github.com/geczirebeka/jurassic_park_frontend).
+For the front-end code click [here](https://github.com/geczirebeka/jurassic_park_frontend).
 
 ## **The Brief**
 
