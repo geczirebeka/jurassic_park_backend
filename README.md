@@ -21,7 +21,7 @@ The backend of a CodeClan JavaScript/Java Group Project. The application enables
 
 For the frontend code click [here](https://github.com/geczirebeka/jurassic_park_frontend).
 
-## **The brief**
+## **The Brief**
 
 Tyrannogotchi is a browser game application where a user can create an account, choose dinosaurs to take care of by feeding and healing them and choose which pen they live in.
 
